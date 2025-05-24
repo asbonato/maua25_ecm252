@@ -1,3 +1,7 @@
-.p-card-body {
+#accordion .p-card-body {
     padding: 8px !important;
+}
+#accordion .p-card-content {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
 }
